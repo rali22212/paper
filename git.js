@@ -1,0 +1,1 @@
+<scaript>alert(box)</scaript>
