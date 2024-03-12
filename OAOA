@@ -1,0 +1,24 @@
+[1mdiff --git a/git.js b/git.js[m
+[1mindex 148bfcd..d2081da 100644[m
+[1m--- a/git.js[m
+[1m+++ b/git.js[m
+[36m@@ -1 +1 @@[m
+[31m-<script>window(windowbox))</script>[m
+\ No newline at end of file[m
+[32m+[m[32m<scaript>alert(box)</scaript>[m
+\ No newline at end of file[m
+[1mdiff --git a/work.js b/work.js[m
+[1mnew file mode 100644[m
+[1mindex 0000000..83a5965[m
+[1m--- /dev/null[m
+[1m+++ b/work.js[m
+[36m@@ -0,0 +1,9 @@[m
+[32m+[m[32mconsole.log("SDfsdemwr we");[m
+[32m+[m[32mconsole.log("SDfsdemwr we");console.log("SDfsdemwr we");console.log("SDfsdemwr we");console.log("SDfsdemwr we");[m
+[32m+[m[32mconsole.log("SDfsdemwr we");[m
+[32m+[m
+[32m+[m[32mconsole.log("SDfsdemwr we");[m
+[32m+[m[32mconsole.log("SDfsdemwr we");[m
+[32m+[m[32mconsole.log("SDfsdemwr we");[m
+[32m+[m[32mconsole.log("SDfsdemwr we");[m
+[32m+[m[32mconsole.log("SDfsdemwr we");[m
